@@ -1,33 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> c975b36 (inserindo dados no firebase)
-import React from 'react'
-
-import {View,Text,} from 'react-native'
-
-
-
-
-export default function Cadastrar(){
-
-return(
-
-    <View>
-
-    <Text> CADASTRAR</Text>
-
-    </View>
-
-
-);
-
-
-<<<<<<< HEAD
-}
-=======
-}
-=======
 import {View,Text,TextInput,StyleSheet,TouchableOpacity} from 'react-native'
 import firebase from '../../firebaseConnection'
 import React,{useState} from 'react'
@@ -105,10 +75,6 @@ const estilos = StyleSheet.create({
         fontSize:15,
         fontWeight:'bold'
 
-
     }
 
-
 })
->>>>>>> a4176f7 (inserindo dados no firebase)
->>>>>>> c975b36 (inserindo dados no firebase)
